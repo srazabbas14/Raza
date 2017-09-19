@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.BufferedWriter;
 
 
-//comment123
+//comment1
 public class make_quiz {
 private static String title;
 
