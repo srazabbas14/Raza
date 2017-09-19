@@ -1,0 +1,25 @@
+NEW QUIZ
+Check The Quiz 
+Hello
+a
+b
+c
+d
+a
+100
+
+Hello
+true
+false
+ 
+ 
+a
+50
+
+Hello
+
+ 
+ 
+ 
+a
+50
