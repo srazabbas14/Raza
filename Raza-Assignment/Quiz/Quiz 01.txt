@@ -1,0 +1,81 @@
+Quiz 01
+Quiz 1
+2+2 + ?
+1
+2
+3
+4
+4
+5
+
+Ant can talk ?
+true
+false
+ 
+ 
+false
+10
+
+Name Pakistan capital ?
+
+ 
+ 
+ 
+Islamabad
+5
+
+Who is founder of Pak ?
+
+ 
+ 
+ 
+Quiad e Azam 
+5
+
+Pak won CT 17 ?
+true
+false
+ 
+ 
+true
+5
+
+Shoaib Malik is Pak team captain ?
+true
+false
+ 
+ 
+false 
+5
+
+What is my name ?
+
+ 
+ 
+ 
+Raza
+5
+
+Pak and China are friends 
+true
+false
+ 
+ 
+true
+10
+
+Pak won world cup t20 in 
+
+ 
+ 
+ 
+2009
+5
+
+Pak won icc odi wc in 
+
+ 
+ 
+ 
+1992
+5

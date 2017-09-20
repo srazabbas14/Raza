@@ -1,0 +1,25 @@
+Quiz Sample
+This is a sample quiz
+2+2 = 
+0
+1
+2
+3
+2
+5
+
+2+2 = 5
+true
+false
+ 
+ 
+false
+5
+
+1+4=?
+
+ 
+ 
+ 
+5
+5

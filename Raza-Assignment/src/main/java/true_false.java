@@ -53,7 +53,7 @@ public class true_false {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
-		JTextPane textPane = new JTextPane();
+		final JTextPane textPane = new JTextPane();
 		textPane.setBounds(48, 29, 465, 133);
 		frame.getContentPane().add(textPane);
 		

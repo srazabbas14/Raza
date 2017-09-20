@@ -49,17 +49,17 @@ static String File_Name;
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
-		JCheckBox chckbxMultipleChoiceQuestion = new JCheckBox("Multiple Choice Question");
+		final JCheckBox chckbxMultipleChoiceQuestion = new JCheckBox("Multiple Choice Question");
 		buttonGroup.add(chckbxMultipleChoiceQuestion);
 		chckbxMultipleChoiceQuestion.setBounds(51, 51, 153, 23);
 		frame.getContentPane().add(chckbxMultipleChoiceQuestion);
 		
-		JCheckBox chckbxTruefalse = new JCheckBox("True/False");
+		final JCheckBox chckbxTruefalse = new JCheckBox("True/False");
 		buttonGroup.add(chckbxTruefalse);
 		chckbxTruefalse.setBounds(51, 90, 114, 23);
 		frame.getContentPane().add(chckbxTruefalse);
 		
-		JCheckBox chckbxNumeric = new JCheckBox("Numeric");
+		final JCheckBox chckbxNumeric = new JCheckBox("Numeric");
 		buttonGroup.add(chckbxNumeric);
 		chckbxNumeric.setBounds(51, 127, 122, 23);
 		frame.getContentPane().add(chckbxNumeric);
