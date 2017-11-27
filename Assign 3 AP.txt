@@ -1,0 +1,31 @@
+Assignment 3: Quizzer
+Description
+Extend Assignment 1 to use Spring (Application Framework) and Hibernate (ORM). All the quizzes should be persistently stored in a DB and the user should be able to select any available quiz, attempt it and record his achieved score for future reference.
+
+All functional requirements from assignment 1 will be applied here as well. Serialization will be replaced by an ORM (and DBMS). All functions will be made available via RESTFul Web Services(running on localhost) and the view will remain independent of the spring application(communication should be done via AJAX and JSON).
+
+Code Management
+For this assignment, keep in mind the following:
+
+Re-Design and Re-Create Assignment 1 using Spring and Hibernate.
+If you have not done Assignment 1, you should start now. Only the current attempt will be considered and you will not get any credit for Assignment 1.
+Use Maven.
+Write Unit Tests.
+Use GitHub
+Reuse the Repository from assignment 1.
+Create a new Dev Branch for the repo
+Checkout and work on your local copy of the new Dev Branch
+Commit the new Dev Branch
+Make a Pull Request to the master branch
+Profile your server app using any tool to show the memory usage after creating of 15 Quizzes with atleast 10 Questions each
+Profile your server app using any tool to show the CPU’s usage statistics when the student is attempting a quiz.
+Write proper comments and follow the best practices for writing re-usable code.
+Deliverables
+You MUST include a description document with separate sections on Introduction, Learning, and screen shots of sample runs fulfilling the requirements, results from profiling, and the version control steps performed on GitHub.
+Your upload will consist of the following files:
+Compressed Source Code
+WAR file for the server app
+Client App
+Test Cases
+Description document
+All your files should be named as follows: Filename_YourName_RegistrationNo._Class_Section
