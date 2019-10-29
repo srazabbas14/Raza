@@ -59,7 +59,7 @@ public class mcqs {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
-		JTextPane textPane = new JTextPane();
+		final JTextPane textPane = new JTextPane();
 		textPane.setBounds(57, 41, 448, 113);
 		frame.getContentPane().add(textPane);
 		

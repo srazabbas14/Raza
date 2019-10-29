@@ -53,7 +53,7 @@ public class set_quiz {
 		frame.getContentPane().add(textField);
 		textField.setColumns(10);
 		
-		JTextPane textPane = new JTextPane();
+		final JTextPane textPane = new JTextPane();
 		textPane.setBounds(232, 63, 198, 87);
 		frame.getContentPane().add(textPane);
 		

@@ -46,7 +46,7 @@ public class numeric {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
-		JTextPane textPane = new JTextPane();
+		final JTextPane textPane = new JTextPane();
 		textPane.setBounds(41, 38, 461, 143);
 		frame.getContentPane().add(textPane);
 		
@@ -58,7 +58,7 @@ public class numeric {
 		lblAnswer.setBounds(41, 247, 116, 14);
 		frame.getContentPane().add(lblAnswer);
 		
-		JTextPane textPane_1 = new JTextPane();
+		final JTextPane textPane_1 = new JTextPane();
 		textPane_1.setBounds(138, 201, 196, 108);
 		frame.getContentPane().add(textPane_1);
 		

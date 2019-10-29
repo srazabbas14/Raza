@@ -1,0 +1,81 @@
+Quiz 02
+Quiz 2
+1.Pak is Muslim country 
+true
+false
+ 
+ 
+true
+5
+
+Where was Hitler from 
+Germany 
+USA
+Pak
+India
+Germany
+5
+
+Hitler was a good man 
+true
+false
+ 
+ 
+false
+5
+
+Birds can fly
+true
+false
+ 
+ 
+true
+10
+
+$1 = ?PKR
+
+ 
+ 
+ 
+107
+5
+
+Pak ICC position in t20 
+
+ 
+ 
+ 
+2
+5
+
+Pak position in odi is 
+
+ 
+ 
+ 
+6
+5
+
+Pak position in tests is 
+
+ 
+ 
+ 
+6
+5
+
+Babar azam is captain of Pak 
+true
+false
+ 
+ 
+true
+5
+
+Babar Azam position in odi is
+
+ 
+ 
+ 
+5
+5

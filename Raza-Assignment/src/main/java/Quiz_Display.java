@@ -67,7 +67,7 @@ private static String filename;
 		label.setBounds(33, 282, 46, 14);
 		frame.getContentPane().add(label);
 		// -------------------------------------------------
-		JTextPane textPane_1 = new JTextPane();
+		final JTextPane textPane_1 = new JTextPane();
 		if(!role)
 		{
 			
@@ -89,7 +89,7 @@ private static String filename;
 		btnEndQuiz.setBounds(428, 430, 89, 23);
 		frame.getContentPane().add(btnEndQuiz);
 		
-		JLabel lblNewLabel = new JLabel("<html>" + obj.question.get(x).getStatement() + "<br>" + obj.question.get(x).getOp1() + "<br>" + obj.question.get(x).getOp2() + "<br>" + obj.question.get(x).getOp3() + "<br>" + obj.question.get(x).getOp4() + "<br>" + "</html>");
+		final JLabel lblNewLabel = new JLabel("<html>" + obj.question.get(x).getStatement() + "<br>" + obj.question.get(x).getOp1() + "<br>" + obj.question.get(x).getOp2() + "<br>" + obj.question.get(x).getOp3() + "<br>" + obj.question.get(x).getOp4() + "<br>" + "</html>");
 		lblNewLabel.setBounds(33, 28, 482, 122);
 		frame.getContentPane().add(lblNewLabel);
 		
